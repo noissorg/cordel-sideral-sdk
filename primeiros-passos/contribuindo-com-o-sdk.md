@@ -20,5 +20,5 @@ Você pode contribuir da forma com a qual se sentir mais confortável, por exemp
 
 ## Fale conosco
 
-Caso tenha alguma dúvida, envie um e-mail para [open@cordelsideral.com](mailto:open@cordelsideral.com) e te ajudaremos. E lembre-se: qualquer pergunta é válida.
+Caso tenha alguma dúvida, envie um e-mail para [sdk@cordelsideral.com](mailto:sdk@cordelsideral.com) e te ajudaremos. E lembre-se: qualquer pergunta é válida.
 
