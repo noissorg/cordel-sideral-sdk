@@ -36,7 +36,7 @@ O SDK do Cordel Sideral é disponibilizado sob a licença **Creative Commons Atr
 
 ### O que está licenciado?
 
-* O conteúdo licenciado corresponde ao material disponibilizado no site [https://open.cordelsideral.com](https://open.cordelsideral.com).
+* O conteúdo licenciado corresponde ao material disponibilizado no site [https://docs.cordelsideral.com](https://open.cordelsideral.com).
 
 ### O que _não_ está licenciado?
 
