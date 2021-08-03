@@ -4,7 +4,7 @@ description: 'Bem-vindo(a) ao nosso SDK, o código fonte do universo do Cordel S
 
 # Página Inicial
 
-Parece estranho chamar um projeto literário de _open source_, mas é exatamente isso o que o Cordel Sideral é. Entenda abaixo o que isso significa e saiba mais sobre o nosso **SDK** \(**Story Development Kit**, _Kit de Desenvolvimento de Histórias_\), que você encontra disponível neste site.
+Parece estranho chamar um projeto literário de _open source_, mas é exatamente isso o que o Cordel Sideral é. Entenda abaixo o que isso significa e saiba mais sobre o nosso **SDK** \(_**Story Development Kit**_, "Kit de Desenvolvimento de Histórias"\), que você encontra disponível neste site.
 
 ## O que é o Cordel Sideral?
 
