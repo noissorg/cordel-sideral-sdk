@@ -29,8 +29,7 @@ Os seguintes materiais são incluídos na distribuição oficial do SDK do Corde
 | **Grupos e Organizações** | Grupos e demais organizações. |
 | **Magia** | Descrição de poderes mágicos e seu uso. |
 | **Social** | Organização social no espaço habitado, incluindo sub-seções como Política, Economia, Religião, e outras. |
-| **Espécies** | Espécies presentes no espaço habitado. |
-| **Fauna e Flora** | Fauna e flora dos planetas habitados. |
+| **Biologia** | Fauna, flora e espécies dos planetas habitados. |
 | **Tecnologia** | Tecnologia em uso no espaço habitado. |
 | **Textos de importância** | Textos criados por personagens ficcionais do universo habitado, como poesias, artigos e notícias. |
 
