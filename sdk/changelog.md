@@ -18,7 +18,7 @@ A versão 1.0 do SDK do Cordel Sideral cobre a **Era do Povoamento** e conterá 
 * **Histórico**
   * Colonização do Sistema Solar
   * Eras
-    * Era da Colonização
+    * Era do Povoamento
     * Era da Expansão
 * **Idiomas**
   * Potu-potu
