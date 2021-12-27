@@ -24,8 +24,8 @@ Você pode ajudar a expandir o SDK adicionando a eles suas próprias ideias, ou 
 
 Saiba mais sobre o SDK acessando a página abaixo:
 
-{% content-ref url="primeiros-passos/sobre-o-nosso-sdk.md" %}
-[sobre-o-nosso-sdk.md](primeiros-passos/sobre-o-nosso-sdk.md)
+{% content-ref url="primeiros-passos/sobre-nosso-sdk.md" %}
+[sobre-nosso-sdk.md](primeiros-passos/sobre-nosso-sdk.md)
 {% endcontent-ref %}
 
 ## Um projeto livre e aberto para todo(as)
