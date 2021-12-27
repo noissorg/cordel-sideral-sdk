@@ -2,7 +2,7 @@
 description: O que é o Story Development Kit (SDK) do Cordel Sideral?
 ---
 
-# Sobre o nosso SDK
+# Sobre nosso SDK
 
 O **Cordel Sideral** é um projeto de ficção open source. Qualquer pessoa pode contribuir com a expansão do nosso universo ou criar suas próprias histórias, ilustrações, vídeos e outros tipos de conteúdos inspirados por ele.
 
@@ -22,14 +22,14 @@ Os seguintes materiais são incluídos na distribuição oficial do SDK do Corde
 
 | Material                  | Descrição                                                                                                |
 | ------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Personagens**           | Biografias de personagens.                                                                               |
+| **Biologia**              | Fauna, flora e espécies dos planetas habitados.                                                          |
+| **Grupos e Organizações** | Grupos e demais organizações.                                                                            |
 | **Histórico**             | Acontecimentos históricos.                                                                               |
 | **Idiomas**               | Idiomas falados pelos habitantes de diferentes planetas.                                                 |
 | **Localidades**           | Planetas, cidades e outras localidades.                                                                  |
-| **Grupos e Organizações** | Grupos e demais organizações.                                                                            |
 | **Magia**                 | Descrição de poderes mágicos e seu uso.                                                                  |
+| **Personagens**           | Biografias de personagens.                                                                               |
 | **Social**                | Organização social no espaço habitado, incluindo sub-seções como Política, Economia, Religião, e outras. |
-| **Biologia**              | Fauna, flora e espécies dos planetas habitados.                                                          |
 | **Tecnologia**            | Tecnologia em uso no espaço habitado.                                                                    |
 | **Textos de importância** | Textos criados por personagens ficcionais do universo habitado, como poesias, artigos e notícias.        |
 
