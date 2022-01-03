@@ -10,7 +10,7 @@ Parece estranho chamar um projeto literário de _open source_, mas é exatamente
 
 ## O que é o Cordel Sideral?
 
-Já imaginou o que aconteceria se o espaço fosse povoado por países como **Brasil**, **Índia**, **Nigéria** e **Palestina**, e não por nações de “primeiro mundo”? O **Cordel Sideral** é uma série literária transmídia de ficção científica que conta a história de gente de tudo quanto é canto, cor, etnia, língua e credo, que enche o Sistema Solar de vida e nos faz ter esperança de que o futuro não será tão sombrio quanto imaginamos... se nos unirmos para lutar por ele!
+Já imaginou o que aconteceria se o espaço fosse povoado pelo **Brasil**, e não por nações de “primeiro mundo”? O **Cordel Sideral** é uma série literária transmídia de ficção científica que conta a história de gente de tudo quanto é canto, cor, etnia, língua e credo, que enche o Sistema Solar de vida e nos faz ter esperança de que o futuro não será tão sombrio quanto imaginamos... se nos unirmos para lutar por ele!
 
 Saiba mais sobre nós no nosso [**site oficial**](https://cordelsiderla.com).
 
