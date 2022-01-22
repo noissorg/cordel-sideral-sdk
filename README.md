@@ -32,7 +32,7 @@ Saiba mais sobre o SDK acessando a página abaixo:
 
 Nós acreditamos no poder da colaboração para a criação de histórias plurais, inclusivas e e de qualidade. Foi por isso que abrimos o Cordel Sideral ao mundo.
 
-Qualquer pessoa pode ajudar a expandir nosso universo ou utilizá-lo em suas criações (inclusive para fins comerciais), contanto que as distribua sob a mesma licença [**Creative Commons CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.pt\_BR).
+Qualquer pessoa pode ajudar a expandir nosso universo ou utilizá-lo em suas criações (inclusive para fins comerciais), contanto que as distribua sob a mesma licença [**Creative Commons CC BY-NC-SA 4.0**](primeiros-passos/termos-de-uso.md).
 
 Saiba mais sobre a licença acessando a página abaixo:
 
