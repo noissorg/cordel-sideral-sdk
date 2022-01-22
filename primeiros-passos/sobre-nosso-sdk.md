@@ -8,7 +8,7 @@ description: O que é o Story Development Kit (SDK) do Cordel Sideral?
 
 O **Cordel Sideral** é um projeto de ficção open source. Qualquer pessoa pode contribuir com a expansão do nosso universo ou criar suas próprias histórias, ilustrações, vídeos e outros tipos de conteúdos inspirados por ele.
 
-Isso é possível porque disponibilizamos a documentação do nosso universo ficcional sob a licença [Creative Commons CC BY-SA 4.0](termos-de-uso.md). Essa licença permite o livre compartilhamento e adaptação do material, mesmo para fins comerciais.
+Isso é possível porque disponibilizamos a documentação do nosso universo ficcional sob a licença [Creative Commons CC BY-NC-SA 4.0](termos-de-uso.md). Essa licença permite o livre compartilhamento e adaptação do material, mesmo para fins comerciais.
 
 A documentação do Cordel leva o nome de **SDK** (_Story Development Kit_, ou "Kit de Desenvolvimento de Histórias"), uma adaptação da sigla idêntica usada no desenvolvimento de softwares, que, naquele caso, significa _Software Development Kit_, ou "Kit de Desenvolvimento de Software".
 
