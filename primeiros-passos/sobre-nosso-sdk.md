@@ -24,14 +24,14 @@ Os seguintes materiais são incluídos na distribuição oficial do SDK do Corde
 
 | Material                  | Descrição                                                                                                |
 | ------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Acontecimentos**        | Acontecimentos históricos.                                                                               |
 | **Biologia**              | Fauna, flora e espécies dos planetas habitados.                                                          |
 | **Grupos e Organizações** | Grupos e demais organizações.                                                                            |
-| **Histórico**             | Acontecimentos históricos.                                                                               |
 | **Idiomas**               | Idiomas falados pelos habitantes de diferentes planetas.                                                 |
 | **Localidades**           | Planetas, cidades e outras localidades.                                                                  |
 | **Magia**                 | Descrição de poderes mágicos e seu uso.                                                                  |
 | **Personagens**           | Biografias de personagens.                                                                               |
-| **Social**                | Organização social no espaço habitado, incluindo sub-seções como Política, Economia, Religião, e outras. |
+| **Sociedade**             | Organização social no espaço habitado, incluindo sub-seções como Política, Economia, Religião, e outras. |
 | **Tecnologia**            | Tecnologia em uso no espaço habitado.                                                                    |
 | **Textos de importância** | Textos criados por personagens ficcionais do universo habitado, como poesias, artigos e notícias.        |
 
@@ -70,7 +70,7 @@ Se deseja saber mais sobre como utilizar o SDK em suas próprias criações, ace
 
 Como o Cordel Sideral é um projeto de ficção científica, não conseguimos perder a oportunidade de nomear a documentação do nosso universo de "SDK".
 
-A sigla é muito presente no desenvolvimento de software e, na programação, um SDK desempenha o mesmo papel que a nossa documentação. Além disso, somos fãs de trocadilhos e piadas do tipo e não conseguimos resistir à tentação :sweat\_smile:&#x20;
+A sigla é muito presente no desenvolvimento de software e, na programação, um SDK desempenha o mesmo papel que a nossa documentação. Além disso, somos fãs de trocadilhos e piadas do tipo e não conseguimos resistir à tentação :sweat\_smile:
 
 ## Permissões de uso
 
