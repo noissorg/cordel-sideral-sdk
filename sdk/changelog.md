@@ -2,7 +2,7 @@
 description: Atualizações e mudanças no nosso SDK.
 ---
 
-# Changelog
+# Roadmap
 
 ## 1.0
 
@@ -21,7 +21,9 @@ A versão 1.0 do SDK do Cordel Sideral cobre a **Era do Povoamento** e conterá 
     * Era do Povoamento
     * Era da Expansão
 * **Idiomas**
-  * Potu-potu
+  * Binário
+  * Português
+  * Potu
 * **Localidades**
   * Mercúrio
   * Vênus
@@ -83,4 +85,3 @@ A versão 1.0 do SDK do Cordel Sideral cobre a **Era do Povoamento** e conterá 
   * Naves
     * MEMOs
     * Museu dos Sons da Via Láctea
-
