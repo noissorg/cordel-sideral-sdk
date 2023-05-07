@@ -4,7 +4,7 @@ description: Quais os termos de uso do SDK do Cordel Sideral?
 
 # Termos de Uso
 
-O SDK do Cordel Sideral é disponibilizado sob a licença **Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+O SDK (Story Development Kit) do Cordel Sideral é disponibilizado sob a licença **Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
 
 {% hint style="warning" %}
 **Importante.** Leia esta página com atenção. Ao fazer uso de qualquer material presente no nosso SDK, você concorda com os termos da licença descrita aqui.
@@ -25,25 +25,25 @@ O SDK do Cordel Sideral é disponibilizado sob a licença **Creative Commons Atr
 ### Você deve...
 
 * Usar nosso SDK para suas criações. É esse o material que licenciamos sob Creative Commons, ele é um conjunto de descrições históricas, de personagens e localidades do universo ficcional do Cordel Sideral;
-* Não utilizar o material original ou o material adaptado para fins comerciais. Uso comercial é o uso primeiramente dirigido à obtenção de uma vantagem comercial ou compensação monetária;
 * Dar o crédito apropriado, prover um link para a licença e indicar se mudanças foram feitas. Você deve fazê-lo em qualquer circunstância razoável, mas de nenhuma maneira que sugira que o Cordel Sideral, a Noiss, ou seus colaboradores apoiam você ou o seu uso do material;
 * Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original. Isso significa que qualquer pessoa poderá expandir suas criações e elas também poderão ser incorporadas ao cânone do Cordel Sideral.
 
 ### Você não pode...
 
-* Aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.
+* Utilizar o material original do SDK para fins comerciais (embora suas criações com base no SDK possam ser utilizadas para esse fim). Uso comercial é o uso primeiramente dirigido à obtenção de uma vantagem comercial ou compensação monetária;
+* Aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam terceiros de fazerem uso do material derivado do uso do SDK, desrespeitando, assim, os termos da nossa licença.
 
 ## Sobre o material licenciado no SDK
 
 ### O que está licenciado?
 
-* O conteúdo licenciado corresponde ao material disponibilizado no site [https://docs.cordelsideral.com](https://open.cordelsideral.com).
+* O conteúdo licenciado corresponde ao material disponibilizado no site [https://sdk.cordelsideral.com](https://sdk.cordelsideral.com).
 
 ### O que _não_ está licenciado?
 
-* Logotipos, marcas e nomes;
-* Ilustrações, vídeos e outras artes não textuais, exceto se incorporadas ao SDK;
-* Elementos contidos em livros, histórias ou outros materiais publicados pela Noiss ou por autores ligados à Noiss;
+* Logotipos, marcas, e nomes do Cordel Sideral;
+* Ilustrações, vídeos, e outras artes não textuais, exceto se incorporadas ao SDK;
+* Conteúdos contidos em livros, histórias, ou outros materiais publicados pela Noiss, ou por autores ligados à Noiss, que não estejam explicitamente incluído no SDK;
 * Qualquer elemento que não esteja explicitamente incluído no SDK.
 
 {% hint style="danger" %}
